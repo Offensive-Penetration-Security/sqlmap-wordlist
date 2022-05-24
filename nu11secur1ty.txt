@@ -1,4 +1,7 @@
+Password123
+admin123
 jsmith123
+computer
 mayurik
 cblake123
 california
