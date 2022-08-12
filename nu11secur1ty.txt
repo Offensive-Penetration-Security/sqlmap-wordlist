@@ -13,6 +13,12 @@ tupakpros
 maloumnik
 supertupo
 abacus
+admin
+adminpassword
+rootadmin
+adminroot
+masterroot
+masteradmin
 abdomen
 abdominal
 abide
