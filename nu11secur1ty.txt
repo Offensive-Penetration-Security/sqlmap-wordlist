@@ -1,3 +1,9 @@
+secret
+verysecret
+strongpassword
+johnadmin
+root
+toor
 Password123
 admin123
 jsmith123
